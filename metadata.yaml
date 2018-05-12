@@ -1,0 +1,40 @@
+_repo: The-Pied-Piper-of-Hamelin_18343
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Greenaway, Kate
+    alias: Greenaway, K. (Kate)
+    birthdate: 1846
+    deathdate: 1901
+    gutenberg_agent_id: '6307'
+    url: http://www.gutenberg.org/2009/agents/6307
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Greenaway
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Browning, Robert
+    birthdate: 1812
+    deathdate: 1889
+    gutenberg_agent_id: '146'
+    url: http://www.gutenberg.org/2009/agents/146
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Browning
+description: The Pied Piper pipes the village free of rats, and when the villagers
+  refuse to pay him for the service he exacts a terrible revenge.
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2006-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picture books for children'
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry, English'
+- !lcsh 'Pied Piper of Hamelin (Legendary character) -- Juvenile poetry'
+title: The Pied Piper of Hamelin
+url: http://www.gutenberg.org/ebooks/18343
