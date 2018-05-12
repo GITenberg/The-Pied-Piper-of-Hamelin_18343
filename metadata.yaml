@@ -22,6 +22,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Robert_Browning
 description: The Pied Piper pipes the village free of rats, and when the villagers
   refuse to pay him for the service he exacts a terrible revenge.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18343#The-Pied-Piper-of-Hamelin
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2006-05-08'
 gutenberg_type: Text
